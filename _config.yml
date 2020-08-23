@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 title: Deep Learning Decoded's Homepage!
 description: For those who just couldn't make it through Goodfellow et al
+markdown: kramdown
